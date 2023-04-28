@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab_Rusya</string>
+    <string name="text_splash">Лабораторная работа</string>
+    <string name="test_click">Кликли на меня!</string>
+    <string name="todo">TODO</string>
+    <string name="gps">Перейти к работе с GPS</string>
+    <string name="seven_miraculus">Посмотреть на чудеса света</string>
+    <string name="gpsview">GPS</string>
+    <string name="your_location">Ваша локация</string>
+    <string name="view_resolt_GPS" />
+    <string name="view_resolt_location" />
+    <string name="button_start_tracking">Start Tacking</string>
+    <string name="button_stop_tracking">Stop Tacking</string>
+    <string name="latitude_label">Широта: </string>
+    <string name="longitude_label">Высота: </string>
+    <string name="actions_settings">Настройки</string>
+</resources>
